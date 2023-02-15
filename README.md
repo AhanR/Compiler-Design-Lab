@@ -1,4 +1,4 @@
-# Compiler-Design-Lab
+# 18CSC304J Compiler Design Lab
 All compiler design lab experiments in a single place with the sortest codes
 
 # Experiment names:
